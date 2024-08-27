@@ -1,0 +1,71 @@
+Altium Designer Pick and Place Locations
+C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\BIN_DETECTOR\Project Outputs for RFID_Reader_Writer\Pick Place\Gateway\Gateway.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12-08-24
+Time:       12:04
+Revision:   Not in VersionControl
+Variant:    Gateway
+Units used: mil
+
+Designator Comment                  Layer       Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                     
+M4         ERP_140-3                BottomLayer TTL-RS485                1259.842      1240.158      0        TTL-RS485                                                       
+J9         ERP_148-3                TopLayer    RJ45                     3464.567      1574.803      90       "CONN MOD JACK 8P8C R/A UNSHLD"                                 
+J3         6Pin_TerminalBlock_5.08P TopLayer    6Pin_TerminalBlock_5.08P 2992.126      393.701       180      "6PINS TERMINAL BLOCK 5.08 PITCH"                               
+C44        ERP_102-2                TopLayer    CAP_6.3_7.7              1505.906      2411.417      0        "Electrolytic Capacitor SMD 6.3x7.7"                            
+M3         DS3231_HW-084            TopLayer    DS3231_HW-084            1161.417      2250.787      180      "DS3231 Time Module , HW-084"                                   
+PTC1       FIT0844                  TopLayer    FIT0844                  1486.220      1633.858      270      "PTC HEATER 5V 3W"                                              
+MH3        MountingHole4X6          TopLayer    MountingHole4X6          137.795       3799.213      0        ""                                                              
+C35        ERP_102-1                TopLayer    CAPC1608X10N             1720.472      1952.756      270      "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density" 
+C33        ERP_102-1                TopLayer    CAPC1608X10N             1657.480      1952.756      270      "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density" 
+R27        ERP_101-1                TopLayer    RES_0603                 1541.276      2154.251      0        RES_0603                                                        
+U5         TMP235                   TopLayer    TMP235                   1673.291      463.514       270      ""                                                              
+R26        ERP_101-1                TopLayer    RES_0603                 1496.063      925.197       0        RES_0603                                                        
+R25        ERP_101-1                TopLayer    RES_0603                 1645.732      619.699       90       RES_0603                                                        
+C27        ERP_102-1                TopLayer    CAPC1608X10N             1679.134      340.864       180      MLCC_0603                                                       
+C6         ERP_102-1                TopLayer    CAPC1608X10N             1679.134      718.504       180      "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density" 
+U4         INA180                   TopLayer    INA180                   1535.433      1968.504      270      ""                                                              
+U2         TLP241A                  TopLayer    TLP241A                  1496.063      1259.842      180      "SSR RELAY SPST-NO 2A 0-40V"                                    
+R24        ERP_101-1                TopLayer    RESC3115X06N             1397.407      1968.504      90       RES_0805                                                        
+R23        ERP_101-1                TopLayer    RES_0603                 1704.724      1094.546      0        RES_0603                                                        
+R22        ERP_101-1                TopLayer    RES_0603                 1705.349      1017.405      0        RES_0603                                                        
+Q5         DMN63D8LV                TopLayer    DMN63D8LV                1502.323      1020.040      180      "MOSFET 2N-CH 30V 0.26A SOT563"                                 
+SW3        ERP_110-4                TopLayer    3PIN_SPDT_TH_RA          2165.354      157.480       0        ""                                                              
+MH2        MountingHole4X6          TopLayer    MountingHole4X6          3799.213      137.795       0        ""                                                              
+C4         ERP_102-2                TopLayer    CAP_6.3_7.7              2368.718      785.901       270      "Electrolytic Capacitor SMD 6.3x7.7"                            
+R7         ERP_101-1                TopLayer    RES_0603                 379.823       1395.383      90       RES_0603                                                        
+MH1        MountingHole4X6          TopLayer    MountingHole4X6          137.795       137.795       0        ""                                                              
+Q4         ERP_105-1                TopLayer    DDTCXXXXCA               324.803       374.016       90       "TRANS PREBIAS NPN 50V SOT23-3"                                 
+Q3         ERP_105-1                TopLayer    DDTCXXXXCA               324.803       629.921       90       "TRANS PREBIAS NPN 50V SOT23-3"                                 
+SW2        ERP_110-4                TopLayer    FSM_6X6                  207.441       1299.213      270      ""                                                              
+SW1        ERP_110-4                TopLayer    FSM_6X6                  207.441       1692.913      270      ""                                                              
+M1         ERP_140-3                TopLayer    ESP32_MINI_1U            866.142       944.882       90       "ESP32_C3_MINI_1 Module"                                        
+J7         Jumper_2P                TopLayer    Jumper_2P                610.236       287.402       0        "Jumper 2 Pins"                                                 
+M2         ERP_140-3                BottomLayer TTL-RS485                1041.348      601.236       0        TTL-RS485                                                       
+U3         ERP_123-1                TopLayer    AMS1117_SOT223           2678.678      811.335       0        "AMS1117 LDO"                                                   
+R10        ERP_101-1                TopLayer    RES_0603                 534.851       1395.383      270      RES_0603                                                        
+R9         ERP_101-1                TopLayer    RES_0603                 169.291       1013.779      0        RES_0603                                                        
+R8         ERP_101-1                TopLayer    RES_0603                 169.291       757.874       0        RES_0603                                                        
+R6         ERP_101-1                TopLayer    RES_0603                 1122.047      334.646       270      RES_0603                                                        
+R5         ERP_101-1                TopLayer    RES_0603                 885.827       334.646       270      RES_0603                                                        
+R4         ERP_101-1                TopLayer    RES_0603                 472.441       1722.441      270      RES_0603                                                        
+R2         ERP_101-1                TopLayer    RES_0603                 169.291       501.969       0        RES_0603                                                        
+Q2         ERP_105-1                TopLayer    MMBT2222                 1003.937      340.551       270      MMBT2222A                                                       
+Q1         ERP_105-1                TopLayer    MMBT2222                 1240.158      340.551       270      MMBT2222A                                                       
+J6         ERP_148-3                TopLayer    RJ45                     3464.567      905.512       90       "CONN MOD JACK 8P8C R/A UNSHLD"                                 
+J5         Jumper_2P                BottomLayer Jumper_2P                369.248       223.210       180      "Jumper 2 Pins"                                                 
+J4         ERP_148-2                TopLayer    6PX1R                    1031.102      196.850       0        6PX1R                                                           
+D4         LED_2SMD                 TopLayer    LED_2SMD                 137.795       885.827       90       "LED RED CLEAR 1204 SMD R/A"                                    
+D3         LED_2SMD                 TopLayer    LED_2SMD                 137.795       374.016       90       "LED YELLOW CLEAR 1204 SMD R/A"                                 
+D2         LED_2SMD                 TopLayer    LED_2SMD                 137.795       629.921       90       "LED GREEN CLEAR 1204 SMD R/A"                                  
+D1         ERP_104-3                TopLayer    SS14_SMA                 2165.354      375.510       180      SS14_SMA                                                        
+C30        ERP_102-2                TopLayer    CAP_6.3_7.7              2982.062      819.209       90       "Electrolytic Capacitor SMD 6.3x7.7"                            
+C29        ERP_102-1                TopLayer    CAPC1608X10N             393.701       1722.441      270      "MLCC 0603"                                                     
+C16        ERP_102-1                TopLayer    CAPC1608X10N             458.396       1393.701      270      "MLCC 0603"                                                     
+C15        ERP_102-1                TopLayer    CAPC1608X10N             708.661       511.748       0        "MLCC 0603"                                                     
+C14        ERP_102-1                TopLayer    CAPC1608X10N             708.661       637.368       0        "MLCC 0603"                                                     
+C13        ERP_102-1                TopLayer    CAPC1608X10N             708.661       575.050       0        "MLCC 0603"                                                     
+C3         ERP_102-1                TopLayer    CAPC1608X10N             2592.127      1055.468      0        "MLCC 0603"                                                     
+C2         ERP_102-1                TopLayer    CAPC1608X10N             2810.787      1055.468      180      "MLCC 0603"                                                     
