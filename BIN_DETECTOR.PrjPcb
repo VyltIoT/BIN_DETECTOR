@@ -612,7 +612,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HYCKPMXM
 
 [Document34]
-DocumentPath=RFID_Reader_Writer.PcbDoc
+DocumentPath=BIN_DETECTOR.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -731,7 +731,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SMWNLJNW
 
 [Document41]
-DocumentPath=RFID_Reader_Writer.OutJob
+DocumentPath=BIN_DETECTOR.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -748,7 +748,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document42]
-DocumentPath=RFID_Reader_Writer.BomDoc
+DocumentPath=BIN_DETECTOR.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1128,374 +1128,462 @@ Variation55=Designator=U1|UniqueId=\PAZOICCQ\WTRQSSEU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=..\..\LIB\Crystal\Crystal.doc
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Design Rule Check - RFID_Reader_Writer.html
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].G1
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway-NonPlated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].G2
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway-NonPlated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway-NonPlated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway-Plated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway-Plated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway-Plated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GD1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.DRL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GG1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.DRL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway.DRL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GM
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.DRR
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GM2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.DRR
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GM3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway.DRR
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GPB
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.G1
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GPT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.G1
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.G2
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.G2
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GBL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GBL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GBO
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\[No Variations]\[No Variations].TXT
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GBO
+DocumentPath=..\..\LIB\Crystal\Crystal.doc
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GBP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Design Rule Check - RFID_Reader_Writer.html
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GBP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GBS
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GBS
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GD1
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GD1
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GG1
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GG1
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GKO
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GKO
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GM
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GM
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GM2
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GM2
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.G1
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GM3
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.G1
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GM3
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.G2
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GPB
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.G2
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GPB
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GPT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GPT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GTL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GTL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GTO
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GTO
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GTP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GTP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GTS
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GTS
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.LDP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway.LDP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for RFID_Reader_Writer\ExportSTEP\Gateway\Gateway.step
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GM
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Pick Place\Gateway.txt
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GM
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Pick Place\Gateway\Gateway.txt
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for RFID_Reader_Writer\BOM\Gateway\Gateway.xlsx
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=..\..\LIB\RF-IC\RF-IC.doc
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor-NonPlated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor-NonPlated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor-Plated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor-Plated.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.DRL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor.DRL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.DRR
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor.DRR
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.G1
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.G2
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GBL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GBO
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GBP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GBS
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GD1
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GG1
+DocumentPath=Project Outputs for RFID_Reader_Writer\ExportSTEP\Gateway\Gateway.step
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GKO
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Gateway\Gateway.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GM
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Gateway\Gateway.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GM2
+DocumentPath=Project Outputs for RFID_Reader_Writer\Pick Place\Gateway.txt
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GM3
+DocumentPath=Project Outputs for RFID_Reader_Writer\Pick Place\Gateway\Gateway.txt
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GPB
+DocumentPath=Project Outputs for RFID_Reader_Writer\BOM\Gateway\Gateway.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GPT
+DocumentPath=..\..\LIB\RF-IC\RF-IC.doc
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GTL
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GTO
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GTP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GTS
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.LDP
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor.LDP
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for RFID_Reader_Writer\ExportSTEP\Sensor\Sensor.step
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor.TXT
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.G1
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Pick Place\Sensor.txt
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.G2
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for RFID_Reader_Writer\Pick Place\Sensor\Sensor.txt
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for RFID_Reader_Writer\BOM\Sensor.xlsx
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument93]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GM
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for RFID_Reader_Writer\ExportSTEP\Sensor\Sensor.step
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Gerber\Sensor\Sensor.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for RFID_Reader_Writer\NC Drill\Sensor\Sensor.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Pick Place\Sensor.txt
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for RFID_Reader_Writer\Pick Place\Sensor\Sensor.txt
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for RFID_Reader_Writer\BOM\Sensor.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument115]
 DocumentPath=Project Outputs for RFID_Reader_Writer\BOM\Sensor\Sensor.xlsx
 DItemRevisionGUID=
 
