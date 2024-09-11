@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=VIN Pin=J4-1
-Removed Member From Class: ClassName=J4_Nets Member=VIN
-Add Class Member: Failed to add class member : Component J8 APCB
-Add Class Member: Failed to add class member : Component J10 BPCB
-Add Class Member: Failed to add class member : Component J11 SCREW
-Add Class Member: Failed to add class member : Component J12 ENCLOSURE

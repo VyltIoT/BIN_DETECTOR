@@ -1,7 +1,0 @@
-Added Component: Designator=ANT2(ESP32 MIFA PCB ANTENNA)
-Added Class: Name=ANT2_Nets
-Added Member To Class: ClassName=Controller Member=Component ANT2 ESP32 MIFA PCB ANTENNA
-Add Class Member: Failed to add class member : Component J8 APCB
-Add Class Member: Failed to add class member : Component J10 BPCB
-Add Class Member: Failed to add class member : Component J11 SCREW
-Add Class Member: Failed to add class member : Component J12 ENCLOSURE
