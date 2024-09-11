@@ -15,10 +15,10 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=RFID_Reader_Writer.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
-VariantName=Sensor
+VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Microsoft Print to PDF
@@ -139,7 +139,7 @@ Configuration6_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModels
 [PublishSettings]
 OutputFilePath2=C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\BIN_DETECTOR\Project Outputs for RFID_Reader_Writer\Schematic\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for RFID_Reader_Writer
+OutputBasePath2=
 OutputPathMedia2=Schematic
 OutputPathMediaValue2=Schematic
 OutputPathOutputer2=
